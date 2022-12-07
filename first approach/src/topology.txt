@@ -1,0 +1,11 @@
+peer1.port = 4000
+peer2.port = 4001
+peer3.port = 4002
+
+peer1.next=2
+peer2.next=3
+peer3.next=1
+
+peer1.serverport=50000
+peer2.serverport=50001
+peer3.serverport=50002
